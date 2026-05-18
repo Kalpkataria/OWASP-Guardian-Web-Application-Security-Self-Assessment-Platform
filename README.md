@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.3+-black?style=flat&logo=flask)
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010%202021-red?style=flat)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 ![University](https://img.shields.io/badge/NFSU-M.Sc%20Cyber%20Security-maroon?style=flat)
 
 I built this project as part of my M.Sc. Cyber Security major project at NFSU, Gandhinagar. OWASP Guardian is a web application vulnerability scanner — you point it at a website, and it tells you what security issues it found, based on the OWASP Top 10 (2021) standard.
