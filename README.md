@@ -97,13 +97,6 @@ python app.py
 
 ---
 
-## 🖥️ Screenshots
-
-| Dashboard | Scan Results | Attack Simulation |
-|-----------|-------------|-------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Scan](screenshots/scan.png) | ![Sim](screenshots/simulation.png) |
-
----
 
 ## 🎯 VulnCorp — Test Target
 
